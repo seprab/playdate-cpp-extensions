@@ -4,6 +4,7 @@
 
 #pragma once
 #include <pdcpp/components/Component.h>
+#include <memory>
 
 namespace pdcpp
 {
